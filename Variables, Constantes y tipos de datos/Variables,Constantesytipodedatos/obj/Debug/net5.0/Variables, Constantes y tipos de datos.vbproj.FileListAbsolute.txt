@@ -1,0 +1,5 @@
+C:\Users\52664\Desktop\VS-.NET\Variables, Constantes y tipos de datos\Variables, Constantes y tipos de datos\obj\Debug\net5.0\Variables, Constantes y tipos de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52664\Desktop\VS-.NET\Variables, Constantes y tipos de datos\Variables, Constantes y tipos de datos\obj\Debug\net5.0\Variables, Constantes y tipos de datos.AssemblyInfoInputs.cache
+C:\Users\52664\Desktop\VS-.NET\Variables, Constantes y tipos de datos\Variables, Constantes y tipos de datos\obj\Debug\net5.0\Variables, Constantes y tipos de datos.AssemblyInfo.vb
+C:\Users\52664\Desktop\VS-.NET\Variables, Constantes y tipos de datos\Variables, Constantes y tipos de datos\obj\Debug\net5.0\Variables, Constantes y tipos de datos.vbproj.CoreCompileInputs.cache
+C:\Users\52664\Desktop\VS-.NET\Variables, Constantes y tipos de datos\Variables, Constantes y tipos de datos\obj\Debug\net5.0\Variables, Constantes y tipos de datos.vbprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.exe
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.deps.json
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.runtimeconfig.json
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.runtimeconfig.dev.json
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.dll
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\bin\Debug\net5.0\ref\PrimerPrograma.dll
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.pdb
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.vbprojAssemblyReference.cache
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.AssemblyInfoInputs.cache
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.AssemblyInfo.vb
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.vbproj.CoreCompileInputs.cache
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.dll
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\ref\PrimerPrograma.dll
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.pdb
+C:\Users\52664\Desktop\VS-.NET\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.genruntimeconfig.cache
